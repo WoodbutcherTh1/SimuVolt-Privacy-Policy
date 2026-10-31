@@ -3,9 +3,9 @@
 SimuVolt Privacy Policy
 Last updated: 31 October 2026
 
-Fill in every [PLACEHOLDER] before you publish this, and have it reviewed for the places where your users live.
 
-[OPERATOR NAME] ("we") makes SimuVolt. This policy says what the App collects and why. Contact: [CONTACT EMAIL].
+
+[Hmam Kaadna] ("we") makes SimuVolt. This policy says what the App collects and why. Contact: [info.hourstracker@gmail.com].
 
 What we collect
 Without an account: nothing leaves your device. Projects, settings and language are stored locally.
